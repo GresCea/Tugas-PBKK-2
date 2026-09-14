@@ -31,7 +31,7 @@ class HomeController extends Controller
 
     public function agent(?string $tema = null): View
     {
-        $tema = $tema ?: 'Log Detection Agent';
+        $tema = $tema ?: 'General Assistant Agent';
 
         return view('agent.idea', compact('tema'));
     }
