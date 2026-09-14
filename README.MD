@@ -2,7 +2,7 @@
 
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-| Joaquin Fairuz Nawfal Ismono | 5025241106 | A |
+| Joaquin Fairuz Nawfal Ismono | 5025241106 | B |
 
 Cara menjalankan aplikasi:
 
