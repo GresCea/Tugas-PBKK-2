@@ -1,0 +1,20 @@
+# Tugas-PBKK-2
+
+| Name           | NRP        | Kelas     |
+| ---            | ---        | ----------|
+| Joaquin Fairuz Nawfal Ismono | 5025241106 | A |
+
+Cara menjalankan aplikasi:
+
+```sh
+git clone https://github.com/GresCea/Tugas-PBKK-2.git
+composer install
+npm install
+copy .env.example .env
+php artisan key:generate
+php artisan migrate
+npm run build
+php artisan serve
+```
+
+Lalu buka di laman http://localhost:8000/ atau http://127.0.0.1:8000/
