@@ -8,8 +8,8 @@
 </head>
 <body class="site-shell">
     <main class="page-card home-card">
-        <span class="eyebrow">PORTOFOLIO MAHASISWA</span>
-        <h1>Selamat datang di ruang saya.</h1>
+        <span class="eyebrow">PROFIL MAHASISWA</span>
+        <h1>Selamat datang di web saya.</h1>
         <p class="lead">Halo, saya <strong>{{ $nama }}</strong>, mahasiswa {{ $programStudi }}. Halaman ini berisi profil singkat dan ide platform Agentic AI yang sedang kelompok saya kembangkan.</p>
 
         <div class="profile-highlight">
